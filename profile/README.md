@@ -1,4 +1,4 @@
-# <img src="https://intelpar.com.br/wp-content/uploads/2025/06/logo-intelpar-branca.png" height="48"> Intelpar Tecnologia
+# <img src="https://www.facebook.com/photo/?fbid=122098924382736335&set=a.122098902212736335" height="48"> Intelpar Tecnologia
 
 ## Tecnologia sob controle. Sempre.
 
