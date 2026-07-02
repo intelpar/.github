@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://www.facebook.com/intelparbr">
-<img src="assets/ui/social/facebook.svg" width="160">
+<img src="assets/ui/social/facebook.svg" width="100">
 </a>
 
 <a href="https://youtube.com/@intelpartecnologia">
