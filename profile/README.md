@@ -25,21 +25,14 @@
   Infraestrutura de TI • Cibersegurança • Microsoft 365 • Backup Corporativo • Monitoramento 24x7
 </p>
 
-<table align="center">
-<tr>
-<td align="center"><a href="https://intelpar.com.br"><img src="assets/ui/social/website.svg" width="36"></a></td>
-<td width="14"></td>
-<td align="center"><a href="https://linkedin.com/company/intelpar"><img src="assets/ui/social/linkedin.svg" width="36"></a></td>
-<td width="14"></td>
-<td align="center"><a href="https://instagram.com/intelpar"><img src="assets/ui/social/instagram.svg" width="36"></a></td>
-<td width="14"></td>
-<td align="center"><a href="https://facebook.com/intelparbr"><img src="assets/ui/social/facebook.svg" width="36"></a></td>
-<td width="14"></td>
-<td align="center"><a href="https://youtube.com/@intelpartecnologia"><img src="assets/ui/social/youtube.svg" width="36"></a></td>
-<td width="14"></td>
-<td align="center"><a href="mailto:contato@intelpar.com.br"><img src="assets/ui/social/email.svg" width="36"></a></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://intelpar.com.br"><img src="assets/ui/social/website.svg" width="42"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/company/intelpar"><img src="assets/ui/social/linkedin.svg" width="42"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/intelpar"><img src="assets/ui/social/instagram.svg" width="42"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://facebook.com/intelparbr"><img src="assets/ui/social/facebook.svg" width="42"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://youtube.com/@intelpartecnologia"><img src="assets/ui/social/youtube.svg" width="42"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:contato@intelpar.com.br"><img src="assets/ui/social/email.svg" width="42"></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
