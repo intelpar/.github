@@ -39,6 +39,10 @@
 <img src="assets/ui/social/instagram.svg" width="160">
 </a>
 
+<a href="https://www.facebook.com/intelparbr">
+<img src="assets/ui/social/facebook.svg" width="160">
+</a>
+
 <a href="https://youtube.com/@intelpartecnologia">
 <img src="assets/ui/social/youtube.svg" width="160">
 </a>
