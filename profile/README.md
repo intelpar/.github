@@ -21,8 +21,18 @@
 <h1 align="center">Intelpar Tecnologia</h1>
 
 <p align="center">
-  <strong>Tecnologia sob controle. Sempre.</strong><br>
-  Infraestrutura de TI • Cibersegurança • Microsoft 365 • Backup Corporativo • Monitoramento 24x7
+  <strong>Tecnologia sob controle. Sempre.</strong><br><br>
+
+  Soluções corporativas para infraestrutura crítica, segurança da informação,
+  produtividade em nuvem e continuidade operacional.
+</p>
+
+<p align="center">
+  <strong>Infraestrutura de TI</strong> •
+  <strong>Cibersegurança</strong> •
+  <strong>Microsoft 365</strong> •
+  <strong>Backup Corporativo</strong> •
+  <strong>Monitoramento 24x7</strong>
 </p>
 
 <p align="center">
