@@ -1,59 +1,130 @@
-# <img src="https://www.facebook.com/photo/?fbid=122098924382736335&set=a.122098902212736335" height="48"> Intelpar Tecnologia
+<p align="center">
+  <img src="assets/banner.png" alt="Intelpar Tecnologia">
+</p>
 
-## Tecnologia sob controle. Sempre.
+<h1 align="center">Intelpar Tecnologia</h1>
 
-Infraestrutura de TI, Segurança da Informação e Continuidade Operacional para empresas que não podem parar.
+<p align="center">
+<b>Tecnologia sob controle. Sempre.</b>
+</p>
+
+<p align="center">
+Infraestrutura de TI • Microsoft 365 • Segurança Gerenciada • Backup Corporativo • Monitoramento 24x7
+</p>
 
 ---
 
-## 🚀 Nossas especialidades
+# Quem somos
+
+A Intelpar Tecnologia desenvolve soluções de infraestrutura de TI, segurança da informação, continuidade operacional e governança para empresas que dependem da tecnologia para manter seus negócios funcionando.
+
+Nosso objetivo é transformar a tecnologia em um ativo estratégico, entregando ambientes previsíveis, seguros e monitorados continuamente.
+
+---
+
+# Especialidades
 
 - ☁️ Microsoft 365
 - 🛡️ Segurança Gerenciada
-- 📊 Monitoramento 24x7
 - 💾 Backup Corporativo
+- 📈 Monitoramento 24x7
 - 🌐 Infraestrutura de Redes
-- ⚙️ Virtualização
+- 🖥️ Virtualização
 - 🐳 Docker
-- 🖥️ Proxmox
-- 📈 Zabbix
+- ⚙️ Proxmox VE
+- 📊 Zabbix
 - 🔐 Governança e LGPD
 
 ---
 
-## 📂 Projetos
+# Laboratórios
 
-Atualmente estamos desenvolvendo e evoluindo soluções como:
+A Intelpar mantém um ambiente próprio para pesquisa, testes e validação de soluções corporativas.
 
-- IntelCare
-- IntelQuality
-- IntelDeploy
-- IntelScripts
-- IntelDocs
-- IntelNOC
+Tecnologias atualmente utilizadas:
 
----
-
-## 🌎 Links
-
-Website  
-https://intelpar.com.br
-
-LinkedIn  
-https://linkedin.com/company/intelpar
-
-Facebook  
-https://facebook.com/intelparbr
-
-Instagram  
-https://instagram.com/intelparbr
-
-Threads  
-https://threads.net/@intelparbr
-
-YouTube  
-https://youtube.com/@intelpartecnologia
+- Proxmox VE
+- Debian
+- Docker
+- Portainer
+- Zabbix
+- Grafana
+- PostgreSQL
+- Nginx
+- Microsoft 365
+- Bitdefender
+- Action1
+- Uptime Kuma
 
 ---
 
-> Tecnologia sob controle. Sempre.
+# Projetos
+
+Estamos desenvolvendo um ecossistema próprio de soluções.
+
+| Projeto | Descrição |
+|---------|-----------|
+| IntelCare | Plataforma para gestão de clínicas e nutricionistas |
+| IntelQuality | Sistema de Gestão da Qualidade |
+| IntelDeploy | Automação de implantações |
+| IntelScripts | Biblioteca PowerShell |
+| IntelDocs | Documentação técnica |
+| IntelNOC | Plataforma de monitoramento |
+
+---
+
+# Filosofia
+
+> Acreditamos que empresas não compram computadores.
+>
+> Elas compram disponibilidade.
+>
+> Compram segurança.
+>
+> Compram continuidade.
+
+---
+
+# Tecnologias
+
+<p>
+
+<img src="https://img.shields.io/badge/Microsoft_365-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Zabbix-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge">
+
+</p>
+
+---
+
+# Conecte-se
+
+🌎 https://intelpar.com.br
+
+💼 LinkedIn
+
+📸 Instagram
+
+▶️ YouTube
+
+---
+
+# Nosso propósito
+
+Transformar a infraestrutura de TI em um ambiente previsível, seguro e continuamente monitorado, permitindo que nossos clientes foquem em seus negócios enquanto cuidamos da tecnologia.
+
+---
+
+<p align="center">
+
+**Tecnologia sob controle. Sempre.**
+
+</p>
