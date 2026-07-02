@@ -256,7 +256,7 @@ graph LR
 |---|---|
 | 🌐 Website | https://intelpar.com.br |
 | 💼 LinkedIn | https://linkedin.com/company/intelpar |
-| 📷 Instagram | https://instagram.com/intelparbr |
+| 📷 Instagram | https://instagram.com/intelpar |
 | 📘 Facebook | https://facebook.com/intelparbr |
 | ▶️ YouTube | https://youtube.com/@intelpartecnologia |
 | 📧 E-mail | contato@intelpar.com.br |
