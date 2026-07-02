@@ -28,27 +28,27 @@
 <p align="center">
 
 <a href="https://intelpar.com.br">
-<img src="assets/ui/social/website.svg" width="42">
+<img src="assets/ui/social/website.svg" width="36">
 </a>
 
 <a href="https://linkedin.com/company/intelpar">
-<img src="assets/ui/social/linkedin.svg" width="42">
+<img src="assets/ui/social/linkedin.svg" width="36">
 </a>
 
 <a href="https://instagram.com/intelpar">
-<img src="assets/ui/social/instagram.svg" width="42">
+<img src="assets/ui/social/instagram.svg" width="36">
 </a>
 
 <a href="https://www.facebook.com/intelparbr">
-<img src="assets/ui/social/facebook.svg" width="42">
+<img src="assets/ui/social/facebook.svg" width="36">
 </a>
 
 <a href="https://youtube.com/@intelpartecnologia">
-<img src="assets/ui/social/youtube.svg" width="42">
+<img src="assets/ui/social/youtube.svg" width="36">
 </a>
 
 <a href="mailto:contato@intelpar.com.br">
-<img src="assets/ui/social/email.svg" width="42">
+<img src="assets/ui/social/email.svg" width="36">
 </a>
 
 </p>
