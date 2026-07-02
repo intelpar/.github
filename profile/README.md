@@ -12,8 +12,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.webp">
     <img src="assets/hero-dark.svg" width="100%" alt="Intelpar Tecnologia">
   </picture>
 </p>
