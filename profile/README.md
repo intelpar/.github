@@ -32,23 +32,23 @@
 </a>
 
 <a href="https://linkedin.com/company/intelpar">
-<img src="assets/ui/social/linkedin.svg" width="160">
+<img src="assets/ui/social/linkedin.svg" width="60">
 </a>
 
 <a href="https://instagram.com/intelpar">
-<img src="assets/ui/social/instagram.svg" width="160">
+<img src="assets/ui/social/instagram.svg" width="60">
 </a>
 
 <a href="https://www.facebook.com/intelparbr">
-<img src="assets/ui/social/facebook.svg" width="100">
+<img src="assets/ui/social/facebook.svg" width="60">
 </a>
 
 <a href="https://youtube.com/@intelpartecnologia">
-<img src="assets/ui/social/youtube.svg" width="160">
+<img src="assets/ui/social/youtube.svg" width="60">
 </a>
 
 <a href="mailto:contato@intelpar.com.br">
-<img src="assets/ui/social/email.svg" width="160">
+<img src="assets/ui/social/email.svg" width="60">
 </a>
 
 </p>
