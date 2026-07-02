@@ -47,6 +47,10 @@
 <img src="assets/ui/social/youtube.svg" width="160">
 </a>
 
+<a href="mailto:contato@intelpar.com.br">
+<img src="assets/ui/social/email.svg" width="160">
+</a>
+
 </p>
 
 <p align="center">
