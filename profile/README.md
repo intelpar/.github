@@ -1,15 +1,35 @@
+<!--
+  Intelpar GitHub Enterprise Kit
+  README v3.0 Premium
+  Arquivo principal para: .github/profile/README.md
+
+  Componentes reutilizáveis disponíveis em:
+  .github/profile/components/
+
+  Assets disponíveis em:
+  .github/profile/assets/
+-->
+
 <p align="center">
-  <img src="assets/banner.png" width="900" alt="Intelpar Tecnologia">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+    <img src="assets/hero-dark.svg" width="100%" alt="Intelpar Tecnologia">
+  </picture>
 </p>
 
 <h1 align="center">Intelpar Tecnologia</h1>
 
 <p align="center">
-  <strong>Tecnologia sob controle. Sempre.</strong>
+  <strong>Tecnologia sob controle. Sempre.</strong><br>
+  Infraestrutura de TI • Cibersegurança • Microsoft 365 • Backup Corporativo • Monitoramento 24x7
 </p>
 
 <p align="center">
-  Infraestrutura de TI • Segurança Gerenciada • Microsoft 365 • Backup Corporativo • Monitoramento 24x7
+  <a href="https://intelpar.com.br"><img src="https://img.shields.io/badge/Website-intelpar.com.br-D9A441?style=for-the-badge"></a>
+  <a href="https://linkedin.com/company/intelpar"><img src="https://img.shields.io/badge/LinkedIn-Intelpar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://youtube.com/@intelpartecnologia"><img src="https://img.shields.io/badge/YouTube-Intelpar-EA3323?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="mailto:contato@intelpar.com.br"><img src="https://img.shields.io/badge/Contato-email-0B1F3A?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -21,48 +41,57 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
----
+<p align="center">
+  <img src="assets/divider-gold.svg" width="100%" alt="">
+</p>
 
 ## Quem somos
 
 A **Intelpar Tecnologia** desenvolve soluções corporativas de infraestrutura de TI, segurança da informação, continuidade operacional e governança tecnológica.
 
-Nosso objetivo é transformar a tecnologia em um ativo estratégico, entregando ambientes previsíveis, seguros e continuamente monitorados para empresas que **não podem parar**.
+Nosso objetivo é transformar tecnologia em um ativo estratégico: ambientes previsíveis, seguros, documentados e continuamente monitorados para empresas que **não podem parar**.
+
+> Empresas não compram computadores.  
+> Compram disponibilidade.  
+> Compram segurança.  
+> Compram continuidade.  
+>
+> **Nós entregamos tecnologia sob controle. Sempre.**
 
 ---
 
-## 🚀 Especialidades
+## Pilares de atuação
 
-| Área | Atuação |
+| 🛡️ Segurança Gerenciada | ☁️ Cloud e colaboração |
 |---|---|
-| ☁️ Microsoft 365 | Produtividade, colaboração, e-mail corporativo e segurança |
-| 🛡️ Segurança Gerenciada | Bitdefender, Microsoft Defender, MFA, políticas e boas práticas |
-| ⚡ Gestão de Patches | Action1, inventário, vulnerabilidades e atualização contínua |
-| 💾 Backup Corporativo | Proteção de dados, recuperação e continuidade operacional |
-| 📊 Monitoramento 24x7 | Zabbix, Grafana, alertas, dashboards e visibilidade da infraestrutura |
-| 🌐 Infraestrutura de Redes | Redes corporativas, servidores, firewall, VPN e Wi-Fi empresarial |
-| 🖥️ Virtualização | Proxmox VE, Hyper-V e ambientes escaláveis |
-| 🐳 Containers | Docker, Portainer e aplicações modernas |
-| ⚙️ Automação | PowerShell, GitHub Actions, scripts, padronização e implantação |
-| 🔐 Governança e LGPD | Documentação, políticas, controles e conformidade |
+| Bitdefender, Microsoft Defender, MFA, políticas, hardening e boas práticas. | Microsoft 365, Google Workspace, Zoho, e-mail corporativo, colaboração e produtividade. |
+
+| 📊 Monitoramento 24x7 | ⚙️ Automação e padronização |
+|---|---|
+| Zabbix, Grafana, Uptime Kuma, dashboards, alertas e indicadores. | PowerShell, Action1, GitHub Actions, scripts e implantação padronizada. |
+
+| 💾 Continuidade Operacional | 🌐 Infraestrutura corporativa |
+|---|---|
+| Backup corporativo, testes de restauração, disaster recovery e documentação. | Servidores, redes, firewall, VPN, Wi-Fi corporativo, virtualização e containers. |
 
 ---
 
-## 🧪 IntelLab
+## IntelLab
 
 A Intelpar mantém um ambiente próprio para testes, homologação e validação de soluções antes da aplicação em ambientes de clientes.
 
 ```mermaid
 graph TD
-    A[GitHub] --> B[Automação e Documentação]
-    B --> C[Docker e Portainer]
-    C --> D[Proxmox VE]
-    D --> E[Zabbix e Grafana]
-    E --> F[Validação Técnica]
-    F --> G[Ambiente do Cliente]
+    A[GitHub] --> B[IntelDeploy]
+    B --> C[Automação e Documentação]
+    C --> D[Docker e Portainer]
+    D --> E[Proxmox VE]
+    E --> F[Zabbix e Grafana]
+    F --> G[Homologação Técnica]
+    G --> H[Ambiente do Cliente]
 ```
 
-### Tecnologias utilizadas no laboratório
+### Base técnica do IntelLab
 
 | Categoria | Tecnologias |
 |---|---|
@@ -78,9 +107,37 @@ graph TD
 
 ---
 
-## 📦 Projetos Intelpar
+## IntelNOC
 
-| Projeto | Status | Descrição |
+O **IntelNOC** representa a visão operacional da Intelpar: monitoramento, alertas, indicadores, inventário e melhoria contínua.
+
+```mermaid
+graph TD
+    A[Ambiente do Cliente] --> B[Coleta de Dados]
+    B --> C[Zabbix]
+    C --> D[Dashboards Grafana]
+    C --> E[Alertas Operacionais]
+    E --> F[Ação Técnica]
+    D --> G[Indicadores]
+    F --> H[Documentação]
+    H --> I[Melhoria Contínua]
+```
+
+| Camada | Objetivo |
+|---|---|
+| Disponibilidade | Identificar falhas antes de impactarem o negócio |
+| Indicadores | Transformar eventos técnicos em informação gerencial |
+| Alertas | Reduzir o tempo de resposta e padronizar ações |
+| Documentação | Registrar histórico, procedimentos e evolução |
+| Governança | Melhorar processos e reduzir riscos operacionais |
+
+---
+
+## Ecossistema Intelpar
+
+A Intelpar está desenvolvendo um conjunto de soluções próprias para organizar conhecimento técnico, operação, documentação e relacionamento com clientes.
+
+| Projeto | Status | Objetivo |
 |---|:---:|---|
 | **IntelCare** | 🚧 | Plataforma para gestão de clínicas, nutricionistas e atendimento digital |
 | **IntelQuality** | 🚧 | Sistema de Gestão da Qualidade, POPs, revisões e documentos |
@@ -91,9 +148,61 @@ graph TD
 | **IntelBackup** | 🔄 | Estratégias, documentação e automações para continuidade operacional |
 | **IntelLGPD** | ⏳ | Modelos, políticas e documentação para governança e privacidade |
 
+```mermaid
+graph LR
+    A[IntelLab] --> B[IntelDeploy]
+    B --> C[IntelScripts]
+    C --> D[IntelDocs]
+    D --> E[IntelNOC]
+    E --> F[IntelQuality]
+    F --> G[IntelCare]
+    G --> A
+```
+
 ---
 
-## 🛣️ Roadmap
+## Stack técnica
+
+### Plataformas principais
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Action1-0B5FFF?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Bitdefender-E30613?style=for-the-badge&logo=bitdefender&logoColor=white">
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+</p>
+
+### Ecossistema técnico
+
+| Categoria | Tecnologias |
+|---|---|
+| Cloud e colaboração | Microsoft 365, Google Workspace, Zoho |
+| Segurança e governança | Bitdefender, Microsoft Defender, MFA, LGPD |
+| Monitoramento e operação | Zabbix, Grafana, Uptime Kuma |
+| Infraestrutura | Windows Server, Debian, Ubuntu, Proxmox VE, Hyper-V |
+| Containers | Docker, Portainer |
+| Automação | PowerShell, Action1, GitHub Actions |
+| Dados e web | PostgreSQL, MariaDB, MySQL, Nginx, WordPress |
+
+---
+
+## Segmentos atendidos
+
+| Segmento | Necessidade comum |
+|---|---|
+| 🏫 Educação | Microsoft 365, disponibilidade, segurança e governança |
+| 🚢 Logística | Continuidade operacional, rede, servidores e monitoramento |
+| 🛒 Comércio | Caixa, ERP, backup, suporte e produtividade |
+| 🏢 Serviços profissionais | E-mail corporativo, colaboração, segurança e documentação |
+| 🏥 Saúde e clínicas | Privacidade, atendimento digital, backup e rastreabilidade |
+| 🏭 Operações críticas | Infraestrutura previsível, indicadores e resposta rápida |
+
+---
+
+## Roadmap
 
 | Status | Entrega |
 |:---:|---|
@@ -101,6 +210,7 @@ graph TD
 | ✅ | Identidade institucional aplicada |
 | ✅ | Perfil público da organização |
 | ✅ | IntelLab definido |
+| ✅ | IntelNOC conceitual |
 | 🚧 | Repositórios oficiais |
 | 🚧 | IntelCare |
 | 🚧 | IntelQuality |
@@ -110,57 +220,11 @@ graph TD
 | ⏳ | Portal Open Source |
 | ⏳ | Brand Kit Intelpar |
 | ⏳ | Design System Intelpar |
+| ⏳ | GitHub Pages / IntelDocs público |
 
 ---
 
-## 💻 Stack Técnica
-
-### Cloud, produtividade e colaboração
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/Zoho-C8202F?style=for-the-badge&logo=zoho&logoColor=white">
-</p>
-
-### Segurança e governança
-<p>
-  <img src="https://img.shields.io/badge/Bitdefender-E30613?style=for-the-badge&logo=bitdefender&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img src="https://img.shields.io/badge/LGPD-1E7D32?style=for-the-badge&logo=securityscorecard&logoColor=white">
-</p>
-
-### Monitoramento e operação
-<p>
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=black">
-</p>
-
-### Infraestrutura, containers e automação
-<p>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/Action1-0B5FFF?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-</p>
-
-### Dados e web
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-</p>
-
----
-
-## 📊 Indicadores
+## Indicadores
 
 | Indicador | Valor |
 |---|---|
@@ -169,10 +233,24 @@ graph TD
 | Modelo | Serviços Gerenciados de TI |
 | Base técnica | Infraestrutura, Segurança, Backup e Microsoft 365 |
 | Localização | Paranaguá • Paraná • Brasil |
+| Princípio operacional | Documentar, monitorar, automatizar e melhorar |
 
 ---
 
-## 🌎 Conecte-se
+## Parceiros e ecossistema
+
+| Área | Ecossistema |
+|---|---|
+| Cloud e produtividade | Microsoft 365, Google Workspace, Zoho |
+| Segurança | Bitdefender, Microsoft Defender |
+| Patching e automação | Action1, PowerShell, GitHub Actions |
+| Infraestrutura | Proxmox VE, Docker, Debian, Windows Server |
+| Monitoramento | Zabbix, Grafana, Uptime Kuma |
+| Distribuição e canais | TD SYNNEX, parceiros e fornecedores especializados |
+
+---
+
+## Conecte-se
 
 | Canal | Link |
 |---|---|
@@ -185,19 +263,13 @@ graph TD
 
 ---
 
-## 💡 Nossa filosofia
-
-> Empresas não compram computadores.  
-> Compram disponibilidade.  
-> Compram segurança.  
-> Compram continuidade.  
->
-> **Nós entregamos tecnologia sob controle. Sempre.**
-
----
+<p align="center">
+  <img src="assets/divider-gold.svg" width="100%" alt="">
+</p>
 
 <p align="center">
-  <strong>Intelpar Tecnologia</strong><br>
+  <strong>INTELPAR TECNOLOGIA</strong><br>
   Infraestrutura • Segurança • Continuidade Operacional<br>
+  Paranaguá • Paraná • Brasil<br>
   <strong>Tecnologia sob controle. Sempre.</strong>
 </p>
