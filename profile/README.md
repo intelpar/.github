@@ -26,10 +26,27 @@
 </p>
 
 <p align="center">
-  <a href="https://intelpar.com.br"><img src="https://img.shields.io/badge/Website-intelpar.com.br-D9A441?style=for-the-badge"></a>
-  <a href="https://linkedin.com/company/intelpar"><img src="https://img.shields.io/badge/LinkedIn-Intelpar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://youtube.com/@intelpartecnologia"><img src="https://img.shields.io/badge/YouTube-Intelpar-EA3323?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:contato@intelpar.com.br"><img src="https://img.shields.io/badge/Contato-email-0B1F3A?style=for-the-badge"></a>
+
+<a href="https://intelpar.com.br">
+<img src="assets/ui/social/website.svg" height="42">
+</a>
+
+<a href="https://linkedin.com/company/intelpar">
+<img src="assets/ui/social/linkedin.svg" height="42">
+</a>
+
+<a href="https://instagram.com/intelpar">
+<img src="assets/ui/social/instagram.svg" height="42">
+</a>
+
+<a href="https://youtube.com/@intelpartecnologia">
+<img src="assets/ui/social/youtube.svg" height="42">
+</a>
+
+<a href="mailto:contato@intelpar.com.br">
+<img src="assets/ui/social/email.svg" height="42">
+</a>
+
 </p>
 
 <p align="center">
