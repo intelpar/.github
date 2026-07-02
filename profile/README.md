@@ -28,7 +28,7 @@
 <p align="center">
 
 <a href="https://intelpar.com.br">
-<img src="assets/ui/social/website.svg" width="42">
+<img src="assets/ui/social/website.svg" width="102">
 </a>
 
 <a href="https://linkedin.com/company/intelpar">
