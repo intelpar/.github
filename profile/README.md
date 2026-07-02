@@ -252,14 +252,14 @@ graph LR
 
 ## Conecte-se
 
-| Canal | Link |
-|---|---|
-| 🌐 Website | https://intelpar.com.br |
-| 💼 LinkedIn | https://linkedin.com/company/intelpar |
-| 📷 Instagram | https://instagram.com/intelpar |
-| 📘 Facebook | https://facebook.com/intelparbr |
-| ▶️ YouTube | https://youtube.com/@intelpartecnologia |
-| 📧 E-mail | contato@intelpar.com.br |
+| Canal | Acesso |
+|-------|--------|
+| 🌐 Website | **[intelpar.com.br](https://intelpar.com.br)** |
+| 💼 LinkedIn | **[@intelpar](https://linkedin.com/company/intelpar)** |
+| 📷 Instagram | **[@intelpar](https://instagram.com/intelpar)** |
+| 📘 Facebook | **[/intelparbr](https://facebook.com/intelparbr)** |
+| ▶️ YouTube | **[@intelpartecnologia](https://youtube.com/@intelpartecnologia)** |
+| 📧 E-mail | **contato@intelpar.com.br** |
 
 ---
 
